@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.1",
+  "appInfo": {
+    "name": "Datafin-Amplication",
+    "description": "",
+    "version": "jktgi8b6",
+    "id": "cl51ibnen147863301l9a1ya5etl",
+    "url": "https://server.amplication.com/cl51ibnen147863301l9a1ya5etl",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl51ibnen147863301l9a1ya5etl",
+      "authProvider": "Jwt"
+    }
+  }
+}
